@@ -1,0 +1,11 @@
+<snippet>
+<content><![CDATA[useLayoutEffect(() => {
+	return () => {
+		${1:effect}
+	},
+	[${2:input}]
+})]]></content>
+<tabTrigger>useLayoutEffect</tabTrigger>
+<scope>source.js</scope>
+<description>useLayoutEffect</description>
+</snippet>
