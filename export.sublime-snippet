@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[export default ${1:${TM_FILENAME/(.+)\..+|.*/$1/:name}};]]></content>
+<tabTrigger>exp</tabTrigger>
+<scope>source.js,source.tsx</scope>
+<description>export default</description>
+</snippet>
