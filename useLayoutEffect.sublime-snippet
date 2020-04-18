@@ -6,6 +6,6 @@
 	[${2:input}]
 })]]></content>
 <tabTrigger>useLayoutEffect</tabTrigger>
-<scope>source.js</scope>
+<scope>source.js,source.tsx</scope>
 <description>useLayoutEffect</description>
 </snippet>
